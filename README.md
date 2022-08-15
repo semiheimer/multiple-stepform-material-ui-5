@@ -1,3 +1,8 @@
+![alt mainpage](public/S1.png)
+![alt mainpage](public/S2.png)
+![alt mainpage](public/S3.png)
+![alt mainpage](public/S4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
